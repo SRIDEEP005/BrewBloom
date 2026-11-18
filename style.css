@@ -12,7 +12,6 @@ section{padding:55px 7%}.section-title{font-size:2rem;margin:0 0 12px;color:var(
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin-top:25px}
 .card{background:white;padding:24px;border-radius:12px;box-shadow:0 8px 25px #0000000c;border:1px solid #e7e4d9}
 .card h3{margin-top:0;color:var(--green)}.price{font-weight:bold;color:var(--brown)}
-.menu{background:var(--sage)}.contact{background:#203d30;color:white}.contact p{color:#e4ebe2}
+.menu{background:var(--sage)}.contact{background:#203d30;color:white}.contact p{color:#e4ebe2}.contact a{color:#f3dfb8}
 footer{padding:22px 7%;background:#172c23;color:#d6dfd4;font-size:.85rem}
-a{color:var(--brown)}.contact a{color:#f3dfb8}
-@media(max-width:600px){nav a{margin:0 12px 0 0}.hero{padding-top:65px;padding-bottom:65px}}
+a{color:var(--brown)}@media(max-width:600px){nav a{margin:0 12px 0 0}.hero{padding-top:65px;padding-bottom:65px}}
